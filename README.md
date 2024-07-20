@@ -5,4 +5,4 @@ Everything is coming from makemeahanzi on github, including svg-drawings, dictio
 
 Download complete.zip, extract and open index.html in any browser. A list of all simplified characters are shown with links to respective stroke order. At the bottom of index.html are links to other forms of indexing, for example pinyin.
 
-The file makemeahanzi-master-edit.tar.gz contains the files used to create the website, located in folder 'test'. It is a big mess.
+The file test.tar.gz contains the files used to create the website. It is a big mess.
